@@ -9,4 +9,9 @@ In this course, you'll learn Natural Language Processing (NLP) basics, such as h
    * `word_tokenize`
    * `regexp_tokenize`
    * `TweetTokenizer`
+   * `stem.WordNetLemmatizer`
 * plotting `matplotlib`
+* counter `collections.Counter`
+* gensim `gensim`
+   * dictionary `corpora.dictionary`
+   * tf-idf `models.tfidmodel`
