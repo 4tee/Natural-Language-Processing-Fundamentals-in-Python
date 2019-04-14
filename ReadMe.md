@@ -19,3 +19,8 @@ In this course, you'll learn Natural Language Processing (NLP) basics, such as h
    * tf-idf `models.tfidmodel`
 * SpaCy `spacy`
 * Polyglot `polyglot`
+* Scikit-learn `sklearn`
+   * `CountVectorizer`
+   * `train_test_split`
+   * `TfidfVectorizer`
+* Pandas `pandas`
